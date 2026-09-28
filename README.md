@@ -14,7 +14,7 @@ The two datasets are combined and processed to create useful movie
 features.
 
 ## 🔄 Project Workflow
-```text
+      text
 TMDB Movies Dataset
         +
 TMDB Credits Dataset
